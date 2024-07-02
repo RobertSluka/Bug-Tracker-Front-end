@@ -1,0 +1,23 @@
+.footer{
+    background-color: #333;
+    text-align: center;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+.header{
+    background-color: #333;
+    text-align: center;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    color: white;
+}
+.full-width-navbar {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
